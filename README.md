@@ -2,7 +2,7 @@
 
 A simple UI theme demonstrating how to extend interface theming on Atom. The development of this demo theme follows the steps in the [Atom Flight Manual](https://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme).
 
-![Demo UI Theme screenshot]()
+![Demo UI Theme screenshot](https://raw.githubusercontent.com/Botmasher/atom-theme-ui/master/screenshot.png)
 
 ## Reproducing this theme
 
